@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "kunal",
+    "MONGO_PASSWORD": "kunal.p.v00",
+    "MONGO_DEFAULT_DATABASE": "shop",
+    "STRIPE_KEY": "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"
+  }
+}
